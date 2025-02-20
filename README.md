@@ -1,16 +1,25 @@
-## Hi there 👋
+Print()
 
-<!--
-**giovannithamasia/giovannithamasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Meu nome Giovanni Thamasia,tenho 19 anos,atualmente cursando tecnico em desenvolvimento de sistemas,desde de novo gosto desse mundo da tecnologia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+O que estou aprendendo no momento:
+
+📚 Tecnologias e Ferramentas:
+
+. Fundamentos de Logica e Analise de dados
+. Raciocinio Logico
+. GitHub
+
+🎯Objetivos de Curto Prazo 
+
+.Consegui uma vaga na area
+.Ter um portfolio solido
+
+
+
+
+🚀 Estou em busca de projetos para aprimorar minhas habilidades e contribuir com a comunidade de código aberto. Estou sempre aberto a aprender coisas novas e colaborar com outros desenvolvedores.
+
+💬 Vamos conectar! Envie uma mensagem ou compartilhe ideias e dicas.
