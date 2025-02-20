@@ -19,7 +19,4 @@ O que estou aprendendo no momento:
 
 
 
-
-🚀 Estou em busca de projetos para aprimorar minhas habilidades e contribuir com a comunidade de código aberto. Estou sempre aberto a aprender coisas novas e colaborar com outros desenvolvedores.
-
 💬 Vamos conectar! Envie uma mensagem ou compartilhe ideias e dicas.
