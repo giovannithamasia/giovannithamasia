@@ -9,12 +9,15 @@ O que estou aprendendo no momento:
 📚 Tecnologias e Ferramentas:
 
 . Fundamentos de Logica e Analise de dados
+
 . Raciocinio Logico
+
 . GitHub
 
 🎯Objetivos de Curto Prazo 
 
 .Consegui uma vaga na area
+
 .Ter um portfolio solido
 
 
