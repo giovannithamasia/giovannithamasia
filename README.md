@@ -14,6 +14,8 @@ O que estou aprendendo no momento:
 
  • GitHub
 
+ • Lógica de Programação 
+
 🎯Objetivos de Curto Prazo 
 
  • Consegui uma vaga na area
