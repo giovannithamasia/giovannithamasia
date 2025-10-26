@@ -1,6 +1,6 @@
 "Hello World"
 
-🎓Meu nome Giovanni Thamasia,tenho 19 anos,atualmente cursando tecnico em desenvolvimento de sistemas,desde de novo gosto desse mundo da tecnologia.
+🎓Meu nome Giovanni Thamasia,tenho 20 anos,atualmente cursando tecnico em desenvolvimento de sistemas,desde de novo gosto desse mundo da tecnologia.
 
 
 
