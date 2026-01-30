@@ -1,14 +1,11 @@
 ## Giovanni Thamasia
 
-Student of Systems Development, seeking to improve my skills.
+Estudante de Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades.
 
 ----------------------------------------------------------------------------------------------------
 
-## I'm Giovanni Thamasia
-
-* I'm based in Blumenau, SC. Brazil.
-* See my portfolio at [my GitHub profile](https://github.com/giovannithamasia)
-* I'm learning REST APIs 
+* Veja meu portfólio em [my GitHub profile](https://github.com/giovannithamasia)
+* Estou aprendendo APIs RESTful
 
 <a href="https://github.com/giovannithamasia" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/giovannithamasia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
