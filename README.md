@@ -6,12 +6,12 @@
 
 🤝 Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais.
 
+
 <a href="mailto:giovannithamasia2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/giovanni-thamasia-8a563931b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 ---
 
 ### Linguagens e Tecnologias
