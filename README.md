@@ -16,7 +16,7 @@
 
 ---
 
-###Linguagens e Tecnologias
+### Languages and Technologies
 
 <p align="left">
   
