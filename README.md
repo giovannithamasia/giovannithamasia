@@ -1,7 +1,9 @@
 ## Giovanni Thamasia
 
 🔍 Em constante aprendizado em Java e Spring Boot, com foco em código limpo e boas práticas.
+
 🧠 Aprendendo APIs RESTful.
+
 🤝 Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais.
 
 <a href="mailto:giovannithamasia2@gmail.com">
