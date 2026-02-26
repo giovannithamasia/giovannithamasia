@@ -1,11 +1,7 @@
 ## Giovanni Thamasia
 
-🔍 Em constante aprendizado em Java e Spring Boot, com foco em código limpo e boas práticas.
-
-🧠 Aprendendo APIs RESTful.
-
-🤝 Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais.
-
+Me chamo Giovanni Thamasia e sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI.
+Atualmente estudo Java e Spring Boot, com foco no desenvolvimento de APIs REST, além de bancos de dados, Git/GitHub e integração com PostgreSQL. Também realizo projetos práticos e cursos complementares, como o Spring Boot Expert (Udemy).
 
 <a href="mailto:giovannithamasia2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -26,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>    
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40"/>
               
           
 </p>
