@@ -1,7 +1,6 @@
 ## Giovanni Thamasia
 
-Me chamo Giovanni Thamasia e sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI.
-Atualmente estudo Java e Spring Boot, com foco no desenvolvimento de APIs REST, além de bancos de dados, Git/GitHub e integração com PostgreSQL. Também realizo projetos práticos e cursos complementares, como o Spring Boot Expert (Udemy).
+Olá! Sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente focado no ecossistema Java e Spring Boot, desenvolvendo APIs REST com foco em boas práticas, arquitetura em camadas e persistência de dados.
 
 <a href="mailto:giovannithamasia2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
