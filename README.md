@@ -1,6 +1,6 @@
 ## Giovanni Thamasia
 
-Olá! Sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente focado no ecossistema Java e Spring Boot, desenvolvendo APIs REST com foco em boas práticas, arquitetura em camadas e persistência de dados.
+Olá! Sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente focado no ecossistema Java e Spring Boot, desenvolvendo APIs REST e aplicações Web MVC com foco em boas práticas, arquitetura em camadas e persistência de dados.
 
 <a href="mailto:giovannithamasia2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -23,8 +23,12 @@ Olá! Sou estudante do Técnico em Desenvolvimento de Sistemas pelo SENAI. Atual
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   
 </p>
 
-</a>
 
